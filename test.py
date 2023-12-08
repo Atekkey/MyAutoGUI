@@ -4,7 +4,6 @@ import time
 time.sleep(4)
 pyautogui.moveRel(30, 30) #show start
 
-
 # https://www.websudoku.com/
 screenWidth, screenHeight = pyautogui.size()
 
